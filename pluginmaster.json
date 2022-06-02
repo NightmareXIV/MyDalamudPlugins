@@ -61,11 +61,11 @@
     },
     {
         "Author": "Eternita",
-        "Name": "EnmityHp",
+        "Name": "EnemyListHP",
         "Punchline": "Displays enemies hp in enemy list",
         "Description": "",
         "InternalName": "EnmityHp",
-        "AssemblyVersion": "2.0.0.5",
+        "AssemblyVersion": "2.0.0.8",
         "RepoUrl": "https://github.com/Eternita-S/EnmityHp",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 6,
