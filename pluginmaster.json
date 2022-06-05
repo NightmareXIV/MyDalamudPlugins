@@ -25,7 +25,7 @@
         "Punchline": "Infinite waymarks in the world and target circles.",
         "Description": "",
         "InternalName": "Splatoon",
-        "AssemblyVersion": "1.0.8.0",
+        "AssemblyVersion": "1.0.9.0",
         "RepoUrl": "https://github.com/Eternita-S/Splatoon",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 6,
