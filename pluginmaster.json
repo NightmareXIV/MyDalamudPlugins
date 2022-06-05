@@ -137,5 +137,24 @@
         "DownloadLinkUpdate": "https://github.com/Eternita-S/MyDalamudPlugins/raw/main/Prioritizer/latest.zip",
         "DownloadCount": 0,
         "LastUpdated": "0"
+    },
+    {
+        "Author": "Eternita",
+        "Name": "UnloadErrorFuckOff",
+        "Punchline": "A plugin to CLEAN THE FUCKING ANNOYING UNLOAD FAILED ERRORS, allowing you to reload plugin without restarting the game. EXTREMELY useful for developers.",
+        "InternalName": "UnloadErrorFuckOff",
+        "AssemblyVersion": "1.0.0.0",
+        "RepoUrl": "https://github.com/Eternita-S/UnloadErrorFuckOff",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 6,
+        "IconUrl": "",
+        "ImageUrls": [],
+        "DownloadLinkInstall": "https://github.com/Eternita-S/MyDalamudPlugins/raw/main/UnloadErrorFuckOff/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/Eternita-S/MyDalamudPlugins/raw/main/UnloadErrorFuckOff/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Eternita-S/MyDalamudPlugins/raw/main/UnloadErrorFuckOff/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdated": "0"
     }
 ]
