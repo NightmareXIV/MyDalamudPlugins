@@ -141,7 +141,7 @@
     {
         "Author": "Eternita",
         "Name": "UnloadErrorFuckOff",
-        "Punchline": "A plugin to CLEAN THE FUCKING ANNOYING UNLOAD FAILED ERRORS, allowing you to reload plugin without restarting the game. EXTREMELY useful for developers.",
+        "Punchline": "== This plugin is only useful for developers. It will do absolutely nothing for regular user. You don't need it unless you're literally developing a plugin yourself. == A plugin to clean unload errors, allowing you to reload plugin without restarting the game. ",
         "InternalName": "UnloadErrorFuckOff",
         "AssemblyVersion": "1.0.0.0",
         "RepoUrl": "https://github.com/Eternita-S/UnloadErrorFuckOff",
