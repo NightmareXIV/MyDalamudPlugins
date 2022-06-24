@@ -1,6 +1,26 @@
 [
     {
         "Author": "Eternita",
+        "Name": "DSR Eye Locator",
+        "Punchline": "!!! Warning !!! This plugin was not tested yet !!! It may not work at all/crash your game !!!",
+        "Description": "",
+        "InternalName": "DSREyeLocator",
+        "AssemblyVersion": "1.0.0.0",
+        "RepoUrl": "https://github.com/Eternita-S/DSREyeLocator",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 6,
+        "IconUrl": "",
+        "ImageUrls": [],
+        "DownloadLinkInstall": "https://github.com/Eternita-S/MyDalamudPlugins/releases/download/Latest/DSREyeLocator.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/Eternita-S/MyDalamudPlugins/releases/download/Latest/DSREyeLocator.zip",
+        "DownloadLinkUpdate": "https://github.com/Eternita-S/MyDalamudPlugins/releases/download/Latest/DSREyeLocator.zip",
+        "DownloadCount": 0,
+        "LastUpdated": "0"
+    },
+    {
+        "Author": "Eternita",
         "Name": "WeathermanExtras",
         "Punchline": "Experimental Weatherman functions. Use at your own risk.",
         "Description": "",
