@@ -7,19 +7,24 @@ URL:
 
 ## Contents
 
-|Plugin|Description|Precautions|
-|---|---|---|
-|Splatoon|Infinite waymarks in world divided by zones, classes and various conditions. Specifically created to provide help with savages and ultimates. You can draw circles, lines and text on the floor with very high precision, mark specific players, create skill range rings around yourself or target to clearly see which area your skill will cover.|None!|
-|Weatherman|Weather, time and BGM manipulation plugin. Allows to permanently change BGM, time and weather based on territory or blacklist unwanted weather globally.|None!|
-|AntiAfkKick|Prevents you from being kicked from the game due to inactivity|Please use responsibly|
-|*CutsceneEnded*|*Various notifications on cutscene end.*|*Available on Xivlauncher's testing repo under NotificationMaster name.*|
-|EnmityHp|Adds HP percent into enemy list.|None|
-|Prioritizer|Increases process priority for FFXIV while you are crafting, preventing possible lag caused by other tasks. Mostly useless for any high-end CPUs.|To be updated for API4|
-|XlKill|Adds /xlkill command which will immediately terminate the game.|To be updated for API4. Very small chance that your character or Dalamud configuration will become corrupted. Use only when really needed!|
-|DynamicVisibility|Automated way to enable or disable Visibility plugin based on current area. Obviously, requires Visibility plugin to be installed.|To be updated for API4|
-|*GPNotify*|*Notifies you when your GP recovers to certain amount as gatherer, takes potion into account as well.*|*Available on Xivlauncher's testing repo under NotificationMaster name.*|
-|*QuestAWAY*|*A plugin to remove unnecessary icons from your map.*|*Available on Xivlauncher's testing repo*|
-
+#### Splatoon
+* Infinite waymarks in world divided by zones, classes and various conditions. Specifically created to provide help with savages and ultimates. You can draw circles, lines and text on the floor with very high precision, mark specific players, create skill range rings around yourself or target to clearly see which area your skill will cover.
+#### AntiAfkKick
+* Prevents you from being kicked from the game due to inactivity
+#### EnmityHp
+* Adds HP percent into enemy list.
+#### TextAdvance
+* Quest speedrunning assistance tool. Automatically confirm quest acceptation and completion, skip subtitles and cutscenes.
+#### DSR Eye Locator
+* Helps you to locate eyes and figure out if your rotation is currect during Sanctity of the Ward and Death of the Heavens mechanics in Dragonsong's Reprise (Ultimate).
+#### Prioritizer
+* Increases process priority for FFXIV while you are crafting, preventing possible lag caused by other tasks. Mostly useless for any high-end CPUs.
+#### SelectString
+* A prototype plugin allowing you to select entries in a selection menu with keys. 
+#### WeathermanExtras
+* Experimental functions for Weatherman plugin.
+#### UnloadErrorFuckOff
+* Developer tool to clear off plugin unload errors.
 
 ## Installation
 Assuming you are already using FFXIV quick launcher with it's ingame features enabled follow these steps to add this repository:
@@ -39,4 +44,4 @@ If you like any of my plugins and have a coin to spare, you may donate to any of
 - USDT (TRC20): `TBNN99wdCzPX4HavCjiooq3NjvujLgqfoK`
 - Litecoin (LTC): `ltc1qrgc802qzdez2q2v6ds293qrglfzj2kvwm5dl4f`
 - Ethereum (ETC): `0xA46D5cD23C7586b0817413682cdeCC8E3CdB590F`
-- Binance BUSD (BEP20): `0xA46D5cD23C7586b0817413682cdeCC8E3CdB590F`
+- BUSD (BEP20): `0xA46D5cD23C7586b0817413682cdeCC8E3CdB590F`
