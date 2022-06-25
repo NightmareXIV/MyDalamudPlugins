@@ -1,4 +1,4 @@
-# MyDalamudPlugins
+# Eternita's plugins
 Custom Dalamud plugin repository.
 
 URL:
@@ -38,7 +38,10 @@ Assuming you are already using FFXIV quick launcher with it's ingame features en
 ![image](https://user-images.githubusercontent.com/5073202/125100420-bf7f8180-e0e1-11eb-9ca7-f31de85b0f84.png)
 After a short reload new plugins will be available in the list.
 
-## Support
+## Support and bugreports
+Support is provided and bugreports are accepted via Github issues in a specific plugin's repository or in a discord server: https://discord.gg/m8NRt4X8Gf
+
+## Contribute
 If you like any of my plugins and have a coin to spare, you may donate to any of my cryptocurrency wallets:
 - Bitcoin (BTC): `bc1qwzh7mc3glcdemyg9xpvr7cfuc2nxl8u87x73e4`
 - USDT (TRC20): `TBNN99wdCzPX4HavCjiooq3NjvujLgqfoK`
