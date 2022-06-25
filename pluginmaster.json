@@ -2,10 +2,10 @@
     {
         "Author": "Eternita",
         "Name": "DSR Eye Locator",
-        "Punchline": "!!! Warning !!! This plugin was not tested yet !!! It may not work at all/crash your game !!!",
+        "Punchline": "[beta] A plugin that resolves two eyes mechanic in Dragonsong's Reprise (Ultimate).",
         "Description": "",
         "InternalName": "DSREyeLocator",
-        "AssemblyVersion": "1.0.0.0",
+        "AssemblyVersion": "1.0.0.1",
         "RepoUrl": "https://github.com/Eternita-S/DSREyeLocator",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 6,
