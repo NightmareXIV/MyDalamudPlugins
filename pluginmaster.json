@@ -5,7 +5,7 @@
         "Punchline": "[beta] A plugin that resolves two eyes mechanic in Dragonsong's Reprise (Ultimate).",
         "Description": "",
         "InternalName": "DSREyeLocator",
-        "AssemblyVersion": "1.0.0.2",
+        "AssemblyVersion": "1.0.0.3",
         "RepoUrl": "https://github.com/Eternita-S/DSREyeLocator",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 6,
