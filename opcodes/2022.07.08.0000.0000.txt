@@ -1,1 +1,2 @@
 MapEffect|7B
+FFXIVIpcSkillHandler|88
