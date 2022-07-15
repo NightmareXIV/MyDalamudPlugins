@@ -1,11 +1,11 @@
 [
     {
         "Author": "Eternita",
-        "Name": "DSR Eye Locator",
-        "Punchline": "[beta] A plugin that resolves two eyes mechanic in Dragonsong's Reprise (Ultimate).",
-        "Description": "",
+        "Name": "DSR Toolbox",
+        "Punchline": "[beta] A helper plugin for Dragonsong's Reprise (Ultimate).",
+        "Description": "Current functions:\nResolve eyes position\nWroth flames automarker (whole group and personal)\nTether to your chain partner",
         "InternalName": "DSREyeLocator",
-        "AssemblyVersion": "1.0.0.5",
+        "AssemblyVersion": "2.0.0.0",
         "RepoUrl": "https://github.com/Eternita-S/DSREyeLocator",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 6,
