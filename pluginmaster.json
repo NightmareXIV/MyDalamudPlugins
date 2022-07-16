@@ -49,7 +49,7 @@
         "RepoUrl": "https://github.com/Eternita-S/Splatoon",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 6,
-        "IconUrl": "https://github.com/Eternita-S/MyDalamudPlugins/releases/download/Latest/Splatoon/icon.png",
+        "IconUrl": "https://raw.githubusercontent.com/Eternita-S/MyDalamudPlugins/main/Splatoon/icon.png",
         "ImageUrls": [],
         "DownloadLinkInstall": "https://github.com/Eternita-S/MyDalamudPlugins/releases/download/Latest/Splatoon.zip",
         "IsHide": false,
