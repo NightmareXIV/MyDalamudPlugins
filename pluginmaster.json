@@ -69,7 +69,7 @@
         "RepoUrl": "https://github.com/Eternita-S/TextAdvance",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 6,
-        "IconUrl": "https://github.com/Eternita-S/MyDalamudPlugins/releases/download/Latest/TextAdvance/icon.png",
+        "IconUrl": "https://raw.githubusercontent.com/Eternita-S/MyDalamudPlugins/main/TextAdvance/icon.png",
         "ImageUrls": [],
         "DownloadLinkInstall": "https://github.com/Eternita-S/TextAdvance/releases/latest/download/TextAdvance.zip",
         "IsHide": false,
