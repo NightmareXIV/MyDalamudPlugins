@@ -65,7 +65,7 @@
         "Punchline": "Automatically skips subtitle boxes and confirms cutscene skipping. Useful mostly for alt levelling. Requires /at command to be typed on each log in to be enabled.",
         "Description": "",
         "InternalName": "TextAdvance",
-        "AssemblyVersion": "3.0.0.0",
+        "AssemblyVersion": "3.0.0.1",
         "RepoUrl": "https://github.com/Eternita-S/TextAdvance",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 6,
