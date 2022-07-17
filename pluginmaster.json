@@ -1,6 +1,26 @@
 [
     {
         "Author": "Eternita",
+        "Name": "XIV Instant Messenger",
+        "Punchline": "[beta] A direct message manager made in fashion of WoW Instant Messenger.",
+        "Description": "Features:\n- Opes a direct message window when you message someone or they message you\n- Each window contains your DM chat with certain person\n- Open and cycle through recent chats with a hotkey\n- Execute emote commands on a player from their DM window without needing to manually target them\n- Automatically record your chat log in an easy to read text file\n- Fully customizable styles",
+        "InternalName": "Messenger",
+        "AssemblyVersion": "1.1.0.7",
+        "RepoUrl": "https://github.com/Eternita-S/XIVInstantMessenger",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 6,
+        "IconUrl": "https://raw.githubusercontent.com/Eternita-S/XIVInstantMessenger/master/Messenger/images/icon.png",
+        "ImageUrls": [],
+        "DownloadLinkInstall": "https://github.com/Eternita-S/XIVInstantMessenger/releases/latest/download/Messenger.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/Eternita-S/XIVInstantMessenger/releases/latest/download/Messenger.zip",
+        "DownloadLinkUpdate": "https://github.com/Eternita-S/XIVInstantMessenger/releases/latest/download/Messenger.zip",
+        "DownloadCount": 0,
+        "LastUpdated": "0"
+    },
+    {
+        "Author": "Eternita",
         "Name": "DSR Toolbox",
         "Punchline": "[beta] A helper plugin for Dragonsong's Reprise (Ultimate).",
         "Description": "Current functions:\nResolve eyes position\nWroth flames automarker (whole group and personal)\nTether to your chain partner",
