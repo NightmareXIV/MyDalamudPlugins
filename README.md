@@ -5,6 +5,9 @@ URL:
 
 `https://raw.githubusercontent.com/Eternita-S/MyDalamudPlugins/main/pluginmaster.json`
 
+## Discord
+You may join discord for announcements, questions and bugreports: https://discord.gg/m8NRt4X8Gf
+
 ## Contents
 
 #### Splatoon
