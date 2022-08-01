@@ -5,7 +5,7 @@
         "Punchline": "[beta] A direct message manager made in fashion of WoW Instant Messenger.",
         "Description": "Features:\n- Opes a direct message window when you message someone or they message you\n- Each window contains your DM chat with certain person\n- Open and cycle through recent chats with a hotkey\n- Execute emote commands on a player from their DM window without needing to manually target them\n- Automatically record your chat log in an easy to read text file\n- Fully customizable styles",
         "InternalName": "Messenger",
-        "AssemblyVersion": "1.1.1.0",
+        "AssemblyVersion": "1.2.0.0",
         "RepoUrl": "https://github.com/Eternita-S/XIVInstantMessenger",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 6,
