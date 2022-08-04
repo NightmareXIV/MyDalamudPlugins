@@ -1,2 +1,3 @@
 MapEffect|7B
 FFXIVIpcSkillHandler|88
+ActorCast|77
