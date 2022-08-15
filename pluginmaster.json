@@ -196,5 +196,24 @@
         "DownloadLinkUpdate": "https://github.com/Eternita-S/UnloadErrorFuckOff/releases/latest/download/UnloadErrorFuckOff.zip",
         "DownloadCount": 0,
         "LastUpdated": "0"
+    },
+    {
+        "Author": "Eternita",
+        "Name": "Imagenation",
+        "Punchline": "[beta] An image drawing backend. To be used together with Triggernometry.",
+        "InternalName": "Imagenation",
+        "AssemblyVersion": "1.0.0.0",
+        "RepoUrl": "https://github.com/Eternita-S/Imagenation",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 6,
+        "IconUrl": "",
+        "ImageUrls": [],
+        "DownloadLinkInstall": "https://github.com/Eternita-S/Imagenation/releases/latest/download/Imagenation.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/Eternita-S/Imagenation/releases/latest/download/Imagenation.zip",
+        "DownloadLinkUpdate": "https://github.com/Eternita-S/Imagenation/releases/latest/download/Imagenation.zip",
+        "DownloadCount": 0,
+        "LastUpdated": "0"
     }
 ]
