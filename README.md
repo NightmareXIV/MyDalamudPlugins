@@ -1,4 +1,4 @@
-# Eternita's plugins
+# NightmareXIV plugins
 Custom Dalamud plugin repository.
 
 URL:
@@ -36,7 +36,7 @@ Assuming you are already using FFXIV quick launcher with it's ingame features en
 2. Click "Settings" button.
 3. Go to "Experimental" tab.
 4. Find "Custom Plugin Repositories" section and paste the following link into text input field:
-`https://raw.githubusercontent.com/Eternita-S/MyDalamudPlugins/main/pluginmaster.json`
+`https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/pluginmaster.json`
 5. Click "Save" or "Save and close" button.
 ![image](https://user-images.githubusercontent.com/5073202/125100420-bf7f8180-e0e1-11eb-9ca7-f31de85b0f84.png)
 After a short reload new plugins will be available in the list.
