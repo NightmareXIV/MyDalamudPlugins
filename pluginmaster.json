@@ -88,7 +88,7 @@
         "AssemblyVersion": "3.0.0.2",
         "RepoUrl": "https://github.com/NightmareXIV/TextAdvance",
         "ApplicableVersion": "any",
-        "DalamudApiLevel": 7,
+        "DalamudApiLevel": 6,
         "IconUrl": "https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/TextAdvance/icon.png",
         "ImageUrls": [],
         "DownloadLinkInstall": "https://github.com/NightmareXIV/TextAdvance/releases/latest/download/TextAdvance.zip",
