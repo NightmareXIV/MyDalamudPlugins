@@ -5,6 +5,13 @@ URL:
 
 `https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/pluginmaster.json`
 
+<hr>
+
+Old .NET 5 versions for Chinese client (compatibility is not guaranteed):
+`https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/cn.json`
+
+(if you know how I can access Chinese version of the game - let me know via discord/issues)
+
 ## Discord
 You may join discord for announcements, questions and bugreports: https://discord.gg/m8NRt4X8Gf
 
