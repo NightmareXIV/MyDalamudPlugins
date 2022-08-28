@@ -214,5 +214,24 @@
         "DownloadLinkUpdate": "https://github.com/NightmareXIV/ObjectExplorer/releases/latest/download/ObjectExplorer.zip",
         "DownloadCount": 0,
         "LastUpdated": "0"
+    },
+    {
+        "Author": "Eternita",
+        "Name": "Instancinator",
+        "Punchline": "[beta] -",
+        "InternalName": "Instancinator",
+        "AssemblyVersion": "1.0.0.0",
+        "RepoUrl": "https://github.com/NightmareXIV/Instancinator",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 7,
+        "IconUrl": "",
+        "ImageUrls": [],
+        "DownloadLinkInstall": "https://github.com/NightmareXIV/Instancinator/releases/latest/download/Instancinator.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/NightmareXIV/Instancinator/releases/latest/download/Instancinator.zip",
+        "DownloadLinkUpdate": "https://github.com/NightmareXIV/Instancinator/releases/latest/download/Instancinator.zip",
+        "DownloadCount": 0,
+        "LastUpdated": "0"
     }
 ]
