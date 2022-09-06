@@ -85,7 +85,7 @@
         "Punchline": "Infinite waymarks in the world and target circles.",
         "Description": "",
         "InternalName": "Splatoon",
-        "AssemblyVersion": "2.1.0.8",
+        "AssemblyVersion": "2.1.0.9",
         "RepoUrl": "https://github.com/NightmareXIV/Splatoon",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 7,
