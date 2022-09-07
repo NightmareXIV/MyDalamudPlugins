@@ -20,7 +20,7 @@
         "LastUpdated": "0"
     },
     {
-        "Author": "Eternita",
+        "Author": "NightmareXIV",
         "Name": "DSR Toolbox",
         "Punchline": "A helper plugin for Dragonsong's Reprise (Ultimate).",
         "Description": "Current functions:\nResolve eyes position\nWroth flames automarker (whole group and personal)\nTether to your chain partner",
@@ -40,7 +40,7 @@
         "LastUpdated": "0"
     },
     {
-        "Author": "Eternita",
+        "Author": "NightmareXIV",
         "Name": "AbyssosToolbox",
         "Punchline": "An assistance tool for fights in Abyssos.",
         "Description": "Splatoon v2.1.1.0+ REQUIRED! Current functions: display of P6S unsafe tiles. ",
@@ -60,7 +60,7 @@
         "LastUpdated": "0"
     },
     {
-        "Author": "Eternita",
+        "Author": "NightmareXIV",
         "Name": "WeathermanExtras",
         "Punchline": "Experimental Weatherman functions. Use at your own risk.",
         "Description": "",
@@ -80,7 +80,7 @@
         "LastUpdated": "0"
     },
     {
-        "Author": "Eternita",
+        "Author": "NightmareXIV",
         "Name": "Splatoon",
         "Punchline": "Infinite waymarks in the world and target circles.",
         "Description": "",
@@ -100,7 +100,7 @@
         "LastUpdated": "0"
     },
     {
-        "Author": "Eternita",
+        "Author": "NightmareXIV",
         "Name": "TextAdvance",
         "Punchline": "Automatically skips subtitle boxes and confirms cutscene skipping. Useful mostly for alt levelling. Requires /at command to be typed on each log in to be enabled.",
         "Description": "",
@@ -120,7 +120,7 @@
         "LastUpdated": "0"
     },
     {
-        "Author": "Eternita",
+        "Author": "NightmareXIV",
         "Name": "AntiAfkKick",
         "Punchline": "A Dalamud plugin for preventing being auto-kicked from FFXIV due to inactivity. Install and forget, no config needed.",
         "Description": "",
@@ -140,7 +140,7 @@
         "LastUpdated": "0"
     },
     {
-        "Author": "Eternita",
+        "Author": "NightmareXIV",
         "Name": "SelectString",
         "Punchline": "Select items in menus via 0-9 keys rather than mouse.",
         "Description": "Numpad is also supported. Note: some menus, like World Visit, are not supported, and whether they will be in future or not remains a question.",
@@ -160,7 +160,7 @@
         "LastUpdated": "0"
     },
     {
-        "Author": "Eternita",
+        "Author": "NightmareXIV",
         "Name": "Prioritizer",
         "Punchline": "Prioritizer sets game's priority to high while crafting. No more failed crafts due to random lags while game is minimized.",
         "InternalName": "Prioritizer",
@@ -179,7 +179,7 @@
         "LastUpdated": "0"
     },
     {
-        "Author": "Eternita",
+        "Author": "NightmareXIV",
         "Name": "UnloadErrorFuckOff",
         "Punchline": "[For plugin developers only] A plugin that clears off load and unload errors. Plugin development is made easy once again!",
         "InternalName": "UnloadErrorFuckOff",
@@ -198,7 +198,7 @@
         "LastUpdated": "0"
     },
     {
-        "Author": "Eternita",
+        "Author": "NightmareXIV",
         "Name": "Imagenation",
         "Punchline": "[beta] An image drawing backend. To be used together with Triggernometry.",
         "InternalName": "Imagenation",
@@ -217,7 +217,7 @@
         "LastUpdated": "0"
     },
     {
-        "Author": "Eternita",
+        "Author": "NightmareXIV",
         "Name": "ObjectExplorer",
         "Punchline": "[beta] A convenient way to explore current objects around you. Currently supports players only.",
         "InternalName": "ObjectExplorer",
@@ -236,7 +236,7 @@
         "LastUpdated": "0"
     },
     {
-        "Author": "Eternita",
+        "Author": "NightmareXIV",
         "Name": "Instancinator",
         "Punchline": "[beta] -",
         "InternalName": "Instancinator",
