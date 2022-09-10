@@ -45,7 +45,7 @@
         "Punchline": "An assistance tool for fights in Abyssos.",
         "Description": "Splatoon v2.1.1.0+ REQUIRED! Current functions: display of P6S unsafe tiles. ",
         "InternalName": "AbyssosToolbox",
-        "AssemblyVersion": "1.0.0.1",
+        "AssemblyVersion": "1.0.0.2",
         "RepoUrl": "https://github.com/NightmareXIV/AbyssosToolbox",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 7,
