@@ -1,4 +1,5 @@
 @echo off
+cd /D "%~dp0"
 call :treeProcess
 goto :eof
 
