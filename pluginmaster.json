@@ -1,6 +1,26 @@
 [
     {
         "Author": "NightmareXIV",
+        "Name": "Lifestream",
+        "Punchline": "A plugin to speed up Aethernet travel and World changing.",
+        "Description": "- One click to teleport to any world or aethernet destination\n- Click on aetheryte shards inside zone map to teleport to them",
+        "InternalName": "Lifestream",
+        "AssemblyVersion": "1.0.0.0",
+        "RepoUrl": "https://github.com/NightmareXIV/Lifestream",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 8,
+        "IconUrl": "",
+        "ImageUrls": [],
+        "DownloadLinkInstall": "https://github.com/NightmareXIV/Lifestream/releases/latest/download/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/NightmareXIV/Lifestream/releases/latest/download/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/NightmareXIV/Lifestream/releases/latest/download/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdated": "0"
+    },
+    {
+        "Author": "NightmareXIV",
         "Name": "DSR Toolbox",
         "Punchline": "A helper plugin for Dragonsong's Reprise (Ultimate).",
         "Description": "Current functions:\nResolve eyes position\nWroth flames automarker (whole group and personal)\nTether to your chain partner",
