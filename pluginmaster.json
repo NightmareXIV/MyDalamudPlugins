@@ -9,7 +9,7 @@
         "RepoUrl": "https://github.com/NightmareXIV/Lifestream",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
-        "IconUrl": "",
+        "IconUrl": "https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/icons/lifestream.png",
         "ImageUrls": [],
         "DownloadLinkInstall": "https://github.com/NightmareXIV/Lifestream/releases/latest/download/latest.zip",
         "IsHide": false,
