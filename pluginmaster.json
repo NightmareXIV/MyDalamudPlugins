@@ -126,7 +126,7 @@
         "Punchline": "Automatically skips subtitle boxes and confirms cutscene skipping. Useful mostly for alt levelling. Requires /at command to be typed on each log in to be enabled.",
         "Description": "",
         "InternalName": "TextAdvance",
-        "AssemblyVersion": "3.0.0.7",
+        "AssemblyVersion": "3.0.0.8",
         "RepoUrl": "https://github.com/NightmareXIV/TextAdvance",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
