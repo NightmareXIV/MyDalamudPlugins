@@ -240,7 +240,7 @@
         "Name": "Instancinator",
         "Punchline": "[beta] A helper to change instances in instanced areas. Requires Yes Already to be installed and enabled. ",
         "InternalName": "Instancinator",
-        "AssemblyVersion": "1.0.0.4",
+        "AssemblyVersion": "1.0.0.5",
         "RepoUrl": "https://github.com/NightmareXIV/Instancinator",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 9,
