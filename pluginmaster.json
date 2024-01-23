@@ -1,5 +1,25 @@
 [
     {
+        "Author": "NightmareXIV and AsunaTsuki",
+        "Name": "DynamicBridge",
+        "Punchline": "Allows you to automatically change your appearance based on various conditions.",
+        "Description": "Enhances player customization by automating character appearance changes through rule-based presets, utilizing integration with other popular customization plugins. This enables seamless and context-sensitive transformations, enriching gameplay and increasing immersion.",
+        "InternalName": "DynamicBridge",
+        "AssemblyVersion": "1.0.2.1",
+        "RepoUrl": "https://github.com/NightmareXIV/DynamicBridge",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 9,
+        "IconUrl": "https://raw.githubusercontent.com/NightmareXIV/DynamicBridge/main/DynamicBridge/images/icon.png",
+        "ImageUrls": [],
+        "DownloadLinkInstall": "https://github.com/NightmareXIV/DynamicBridge/releases/latest/download/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/NightmareXIV/DynamicBridge/releases/latest/download/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/NightmareXIV/DynamicBridge/releases/latest/download/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdated": "0"
+    },
+    {
         "Author": "NightmareXIV",
         "Name": "HuntTrainAssistant",
         "Punchline": "[beta] Hunt train assistance tool.",
