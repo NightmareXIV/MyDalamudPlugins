@@ -5,7 +5,7 @@
         "Punchline": "Allows you to automatically change your appearance based on various conditions.",
         "Description": "Automates character appearance changes through rule-based presets, utilizing integration with other popular customization plugins. This enables seamless and context-sensitive transformations, enriching gameplay and increasing immersion.",
         "InternalName": "DynamicBridge",
-        "AssemblyVersion": "1.0.2.1",
+        "AssemblyVersion": "1.0.2.3",
         "RepoUrl": "https://github.com/NightmareXIV/DynamicBridge",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 9,
