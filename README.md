@@ -45,6 +45,7 @@ Assuming you are already using FFXIV quick launcher with it's ingame features en
 4. Find "Custom Plugin Repositories" section and paste the following link into text input field:
 `https://github.com/NightmareXIV/MyDalamudPlugins/raw/main/pluginmaster.json`
 5. Click "Save" button.
+
 ![image](https://github.com/NightmareXIV/MyDalamudPlugins/assets/5073202/4208d3ff-744a-4d26-a58c-0efdeec1d4c4)
 
 After a short reload new plugins will be available in the list. Sometimes you might need to restart the game.
