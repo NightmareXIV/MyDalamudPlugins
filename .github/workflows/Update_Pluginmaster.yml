@@ -27,3 +27,7 @@ jobs:
             dotnet-version: 7.0.x
         - name: Run the program
           run: dotnet run --project NightmareXIVRepoUpdater/NightmareXIVRepoUpdater/NightmareXIVRepoUpdater.csproj
+          env: 
+            READONLYKEY: ${{ secrets.READONLYKEY }}
+            NIGHTMAREXIVWRITEKEY: ${{ secrets.NIGHTMAREXIVWRITEKEY }}
+            DYNAMICBRIDGESTANDALONEWRITEKEY: ${{ secrets.DYNAMICBRIDGESTANDALONEWRITEKEY }}
