@@ -26,4 +26,4 @@ jobs:
           with:
             dotnet-version: 7.0.x
         - name: Run the program
-          run: dotnet run --project NightmareXIVRepoUpdater/NightmareXIVRepoUpdater.csproj
+          run: dotnet run --project NightmareXIVRepoUpdater/NightmareXIVRepoUpdater/NightmareXIVRepoUpdater.csproj
