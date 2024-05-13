@@ -1,1 +1,22 @@
-
+[
+  {
+    "Author": "Taurenkey, kawaii",
+    "Name": "Artisan",
+    "Punchline": "A 'simple' crafting plugin. Patched version that runs on staging Dalamud.",
+    "Description": "The all-in-one crafting plugin.",
+    "Tags": [
+      "crafting"
+    ],
+    "InternalName": "Artisan",
+    "RepoUrl": "https://github.com/PunishXIV/Artisan",
+    "DownloadCount": 1073782,
+    "LastUpdate": 1714925753805,
+    "DownloadLinkInstall": "https://github.com/NightmareXIV/MyDalamudPlugins/raw/main/PatchedPlugins/Artisan.zip",
+    "DownloadLinkUpdate": "https://github.com/NightmareXIV/MyDalamudPlugins/raw/main/PatchedPlugins/Artisan.zip",
+    "AssemblyVersion": "3.0.5.15",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": "9",
+    "Changelog": "",
+    "IconUrl": "https://s3.puni.sh/media/plugin/6/icon-3h8wd5b9qr.png"
+  }
+]
