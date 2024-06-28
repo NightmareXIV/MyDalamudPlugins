@@ -19,12 +19,12 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3  
       - name: Download header
-        run: wget https://github.com/NightmareXIV/MyDalamudPlugins/raw/main/meta/HeaderFull.md -P ${{ env.TMPDIR }}
+        run: wget https://github.com/NightmareXIV/MyDalamudPlugins/raw/main/meta/HeaderFull.md -P /tmp
       - name: Download footer
-        run: wget https://github.com/NightmareXIV/MyDalamudPlugins/raw/main/meta/FooterFull.md -P ${{ env.TMPDIR }}
+        run: wget https://github.com/NightmareXIV/MyDalamudPlugins/raw/main/meta/FooterFull.md -P /tmp
 
       - name: Concatenate files
-        run: cat ${{ env.TMPDIR }}\HeaderFull.md meta\front.md ${{ env.TMPDIR }}\FooterFull.md > README.md  
+        run: cat /tmp/HeaderFull.md meta/front.md /tmp/FooterFull.md > README.md  
 
       - name: Commit merged file
         run: |
