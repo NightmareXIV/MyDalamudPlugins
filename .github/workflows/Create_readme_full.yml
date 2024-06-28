@@ -2,13 +2,18 @@ name: Create readme full
 
 on:
   workflow_dispatch:
+  workflow_call:
   push:
     branches:
       - main  
 
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: true
+  
 jobs:
   merge-files:
-    runs-on: ubuntu 
+    runs-on: ubuntu-latest
 
     steps:
       - name: Checkout repository
