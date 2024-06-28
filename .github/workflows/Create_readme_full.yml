@@ -1,0 +1,30 @@
+name: Create readme full
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main  
+
+jobs:
+  merge-files:
+    runs-on: ubuntu 
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3  
+      - name: Download header
+        run: wget https://github.com/NightmareXIV/MyDalamudPlugins/raw/main/meta/HeaderFull.md -P ${{ env.TMPDIR }}
+      - name: Download footer
+        run: wget https://github.com/NightmareXIV/MyDalamudPlugins/raw/main/meta/FooterFull.md -P ${{ env.TMPDIR }}
+
+      - name: Concatenate files
+        run: cat ${{ env.TMPDIR }}\HeaderFull.md meta\front.md ${{ env.TMPDIR }}\FooterFull.md > README.md  
+
+      - name: Commit merged file
+        run: |
+          git config --local user.email "noreply@nightmarexiv.com"
+          git config --local user.name "GitHub Action"
+          git add merged.txt
+          git commit -m "Update Readme.md" -a || echo "No changes to commit"
+          git push  # Push the changes back to the repository
