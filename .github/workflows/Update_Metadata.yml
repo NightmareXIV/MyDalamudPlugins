@@ -15,7 +15,7 @@ jobs:
     # The type of runner that the job will run on
     runs-on: ubuntu-latest
     permissions:
-      contents: read
+      contents: write
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
@@ -32,6 +32,8 @@ jobs:
           env: 
             GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         - run: |
+            git config --local user.email "noreply@nightmarexiv.com"
+            git config --local user.name "GitHub Action"
             git add README.md
             git commit -m "Update Readme.md" -a || echo "No changes to commit"
             git push
