@@ -31,3 +31,7 @@ jobs:
         - run: dotnet run --project builder/NightmareXIVRepoMetadataBuilder/NightmareXIVRepoMetadataBuilder.csproj
           env: 
             GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        - run: |
+            git add README.md
+            git commit -m "Update Readme.md" -a || echo "No changes to commit"
+            git push
