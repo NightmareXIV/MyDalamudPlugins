@@ -2,7 +2,7 @@
 # or API.
 on:
   workflow_dispatch:
-  repository_dispatch:
+  workflow_call:
 
 concurrency:
   group: ${{ github.workflow }}
