@@ -6,4 +6,4 @@
 5. Click "Save" button.
 6. Open plugin installer by typing `/xlplugins` in game chat, go to "Available plugins" section and search for a plugin you would like to install.
 
-![image](installer.png)
+![image](https://github.com/NightmareXIV/MyDalamudPlugins/blob/main/meta/install/installer.png?raw=true)
