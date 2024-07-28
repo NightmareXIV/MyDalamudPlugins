@@ -28,6 +28,6 @@ jobs:
         - uses: actions/setup-dotnet@v3
           with:
             dotnet-version: 8.0.x
-        - run: dotnet run --project builder/NightmareXIVRepoMetadataBuilder/NightmareXIVRepoMetadataBuilder/NightmareXIVRepoMetadataBuilder.csproj
+        - run: dotnet run --project builder/NightmareXIVRepoMetadataBuilder/NightmareXIVRepoMetadataBuilder.csproj
           env: 
             GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
