@@ -1,0 +1,33 @@
+# Controls when the action will run. Workflow runs when manually triggered using the UI
+# or API.
+on:
+  workflow_dispatch:
+  repository_dispatch:
+
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: true
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "greet"
+  generate_pluginmaster:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+    # Runs a single command using the runners shell
+        - uses: actions/checkout@v4
+        - uses: actions/checkout@v4
+          with:
+            name: NightmareXIV/NightmareXIVRepoMetadataBuilder
+            path: builder
+        - uses: actions/setup-dotnet@v3
+          with:
+            dotnet-version: 8.0.x
+        - run: dotnet run --project builder/NightmareXIVRepoMetadataBuilder/NightmareXIVRepoMetadataBuilder/NightmareXIVRepoMetadataBuilder.csproj
+          env: 
+            GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
