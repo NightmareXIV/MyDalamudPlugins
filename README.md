@@ -1,14 +1,17 @@
 # Become a Supporter!
 If you like this or any of the other plugins I maintain, please consider becoming a supporter on Patreon or via other means! This will help me to continue updating the plugin and implement new features and you will receive benefits such as priority support, prioritized feature request, early testing builds and private plugins as well - number of which will only grow with Dawntrail. 
-- [Subscribe on Patreon](https://subscribe.nightmarexiv.com/) - eligible for Discord role
-- [Donate Litecoin, Bitcoin, Tether or other crypto](https://crypto.nightmarexiv.com/) - eligible for Discord role
-- [One-time donation via Ko-Fi](https://donate.nightmarexiv.com/)
+- [Subscribe on Patreon](https://subscribe.nightmarexiv.com/) 
+- [Donate Litecoin, Bitcoin, Tether or other crypto](https://crypto.nightmarexiv.com/) 
 
 ### Also:
 - [Explore other plugins I maintain or contributed to](https://explore.nightmarexiv.com/)
 - [Join NightmareXIV Discord server to receive fast support and pings about plugin updates](https://discord.gg/m8NRt4X8Gf)
 # NightmareXIV plugins
 A collection of plugins made for Dalamud framework, built for Final Fantasy XIV game.
+
+|Note: all listed plugins use either 100% original code or reuse open source code in a way that is permitted by source license. None of listed plugins contain any original or reverse engineered code from the game itself. Additionally, you will need either FFXIVQuickLauncher or similar compatible software to use these plugins.|
+|---|
+
 ## Installation
 1. Install [FFXIVQuickLauncher](https://github.com/goatcorp/FFXIVQuickLauncher?tab=readme-ov-file#xivlauncher-----) and enable Dalamud in it's settings. You have to run the game through FFXIVQuickLauncher in order for any of these plugins to work.
 2. Open Dalamud settings by typing `/xlsettings` in game chat.
@@ -62,11 +65,7 @@ Have any issues, questions or just want to stay updated? [Join NightmareXIV Disc
 ## Plugins available in partnered platform - Puni.sh
 These plugins are ones that either fully or partially maintained by NightmareXIV and are hosted on [Puni.sh plugin publishing platform](https://puni.sh/).
 ### [Splatoon](https://github.com/PunishXIV/Splatoon)
-An accessibility plugin that is designed to draw custom, user-defined waymarks based on various conditions and triggers. 
+- An accessibility plugin that is designed to draw custom, user-defined waymarks based on various conditions and triggers. 
 ### [AutoRetainer](https://github.com/PunishXIV/AutoRetainer/)
-- Makes retainer and submersible routine easier by automating it.
-### [Orbwalker](https://github.com/PunishXIV/Orbwalker)
-- A helper for slidecasting.
-### [Avarice](https://github.com/PunishXIV/Avarice)
-- A positional helper for melee players.
+- Makes retainer and submersible resending easier.
 
