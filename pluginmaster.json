@@ -285,6 +285,7 @@
     "LastUpdate": 1723172903,
     "DownloadLinkInstall": "https://github.com/NightmareXIV/Mini/releases/download/2.1.0.2/latest.zip",
     "DownloadLinkUpdate": "https://github.com/NightmareXIV/Mini/releases/download/2.1.0.2/latest.zip",
-    "SupportsProfiles": true
+    "SupportsProfiles": true,
+    "IconUrl": "https://raw.githubusercontent.com/NightmareXIV/Mini/master/Mini/images/icon.png"
   }
 ]
