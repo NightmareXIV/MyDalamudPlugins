@@ -13,4 +13,7 @@ Open plugin installer by typing `/xlplugins` in game chat, go to "Available plug
 ## Support
 Join NightmareXIV Discord server to receive support for this plugin: https://discord.gg/m8NRt4X8Gf
 [![](https://dcbadge.vercel.app/api/server/m8NRt4X8Gf)](https://discord.gg/m8NRt4X8Gf)
+
 The server operates on a ticket-based system. Please create a ticket and describe your issue.
+Additionally, you may create an issue in the repository. Reply time for tickets may be significantly longer than on Discord, however, the issue does not have any risks to be lost.
+(Basically, if you want to report a critical bug or receive help, prefer Discord, if you want to suggest feature or report non-critical bug, prefer Github)
