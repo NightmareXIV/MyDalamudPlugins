@@ -36,7 +36,7 @@
     "ApplicableVersion": "any",
     "DalamudApiLevel": 13,
     "TestingDalamudApiLevel": 12,
-    "DownloadCount": 102805,
+    "DownloadCount": 102806,
     "LastUpdate": 1754798748,
     "DownloadLinkInstall": "https://github.com/NightmareXIV/HuntTrainAssistant/releases/download/1.0.2.9/latest.zip",
     "DownloadLinkUpdate": "https://github.com/NightmareXIV/HuntTrainAssistant/releases/download/1.0.2.9/latest.zip",
@@ -250,6 +250,24 @@
     "DownloadLinkUpdate": "https://github.com/NightmareXIV/ObjectExplorer/releases/download/1.0.0.8/latest.zip",
     "SupportsProfiles": true,
     "IconUrl": ""
+  },
+  {
+    "Author": "NightmareXIV",
+    "Name": "StandalonePluginManager",
+    "Punchline": "Simplifies installation and upgrade process for plugins installed manually.",
+    "Description": "- Simplifies installation and upgrade process for plugins installed manually.",
+    "Changelog": "- Initial release. Warning! May contain bugs.",
+    "IsHide": false,
+    "InternalName": "StandalonePluginManager",
+    "AssemblyVersion": "1.0.0.0",
+    "IsTestingExclusive": false,
+    "RepoUrl": "https://github.com/NightmareXIV/StandalonePluginManager",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 13,
+    "LastUpdate": 1755409777,
+    "DownloadLinkInstall": "https://github.com/NightmareXIV/StandalonePluginManager/releases/download/1.0.0.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/NightmareXIV/StandalonePluginManager/releases/download/1.0.0.0/latest.zip",
+    "SupportsProfiles": true
   },
   {
     "Author": "NightmareXIV",
