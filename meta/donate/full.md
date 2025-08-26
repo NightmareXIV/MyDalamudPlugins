@@ -6,4 +6,4 @@ If you like $plugin, please consider becoming a supporter on Patreon or via othe
 
 ### Also:
 - [Explore other plugins I maintain or contributed to](https://explore.nightmarexiv.com/)
-- [Join NightmareXIV Discord server to receive fast support and pings about plugin updates](https://discord.gg/m8NRt4X8Gf)
+- [Join NightmareXIV Discord server to receive fast support and pings about plugin updates](https://discord.gg/BeeRFKDJD3)
