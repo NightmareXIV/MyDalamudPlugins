@@ -10,7 +10,7 @@ A collection of plugins made for Dalamud framework, built for Final Fantasy XIV 
 ![image](https://github.com/NightmareXIV/MyDalamudPlugins/assets/5073202/e02b69a0-8945-417a-83db-6f45fc9650b1)
 
 You should now have NightmareXIV plugins available in your plugin installer. 
-Have any issues, questions or just want to stay updated? [Join NightmareXIV Discord server](https://discord.gg/m8NRt4X8Gf).
+Have any issues, questions or just want to stay updated? [Join NightmareXIV Discord server](https://discord.gg/BeeRFKDJD3).
 # Plugin Overview
 ## Plugins available in custom NightmareXIV repository:
 ### [AntiAfkKick](https://github.com/NightmareXIV/AntiAfkKick)
