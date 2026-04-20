@@ -1,11 +1,13 @@
-# Become a Supporter!
-If you like this or any of the other plugins I maintain, please consider becoming a supporter on Patreon or via other means! This will help me to continue updating the plugin and implement new features and you will receive benefits such as priority support, prioritized feature request, early testing builds and private plugins as well - number of which will only grow with Dawntrail. 
-- [Subscribe on Patreon](https://subscribe.nightmarexiv.org/) 
-- [Donate Litecoin, Bitcoin, Tether or other crypto](https://crypto.nightmarexiv.org/) 
+## Become a Supporter!
+If you like $plugin, please consider becoming a supporter on Patreon or via other means! This will help me to continue updating $plugin and work on new plugins and features and you will receive benefits such as early progress updates, priority support, prioritized feature requests, early testing builds and private tools. 
+- [Subscribe on Patreon (Starts from $1)](https://subscribe.nightmarexiv.org/) - eligible for Discord role
+- [Donate Litecoin, Bitcoin, Tether or other crypto](https://crypto.nightmarexiv.org/) - eligible for Discord role
+- [One-time donation on Ko-Fi](https://donate.nightmarexiv.org/)
 
 ### Also:
 - [Explore other plugins I maintain or contributed to](https://explore.nightmarexiv.org/)
-- [Join NightmareXIV Discord server to receive fast support and pings about plugin updates](https://discord.gg/m8NRt4X8Gf)
+- [Join NightmareXIV Discord server to receive fast support and pings about plugin updates](https://discord.gg/BeeRFKDJD3)
+
 # NightmareXIV plugins
 A collection of plugins made for Dalamud framework, built for Final Fantasy XIV game.
 
