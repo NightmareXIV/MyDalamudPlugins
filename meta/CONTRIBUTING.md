@@ -1,6 +1,11 @@
 # Thank you for considering contributing to this project!
 ## Before you proceed with pull request, please consider the following:
 
+# [EXCEPTIONS EXIST] NO UNSOLICITED PULL REQUESTS
+##  Before you fork, edit and pull request something, please contact me first and ask if it is wanted. 
+
+**Exception**: if a plugin has loadable scripts and modules that are not being part of the plugin by default and must be installed by user separately, you can open pull request at any time without asking. Additionally, you can at any time open pull request to add/fix translations. 
+
 ### 100% No AI polity, except for loadable scripts and modules
 I employ strict 100% no-AI policy, which means any contributed code should be free from AI-generated code and AI-generated documentations entirely. Moreover, please do not contribute features that were designed or suggested by AI even if they have been coded manually. 
 
